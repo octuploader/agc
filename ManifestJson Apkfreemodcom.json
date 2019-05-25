@@ -1,6 +1,6 @@
 {
-  "name": "My Android",
-  "short_name": "MyAndroid",
+  "name": "ApkFreeMod",
+  "short_name": "ApkFreeMod",
   "start_url": "https://www.apkfreemod.com/",
   "display": "standalone",
   "background_color": "#fff",
