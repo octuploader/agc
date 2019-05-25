@@ -1,0 +1,38 @@
+{
+  "name": "ApkFreeMod",
+  "short_name": "ApkFreeMod",
+  "start_url": "https://www.apkfreemod.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "	Info Seputar Android dan Dunia Tekno",
+  "icons": [{
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s48/Icon%2Bapkfreemod.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s72/Icon%2Bapkfreemod.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s96/Icon%2Bapkfreemod.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s144/Icon%2Bapkfreemod.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s168/Icon%2Bapkfreemod.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s192/Icon%2Bapkfreemod.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "<link href='https://1.bp.blogspot.com/-DnBbUIahwuk/XOicgOhW0xI/AAAAAAAAEG0/cA26rgxQkLgNlyvZzyRU7nqAnH5jE02EACLcBGAs/s512/Icon%2Bapkfreemod.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
